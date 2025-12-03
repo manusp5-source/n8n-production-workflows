@@ -1,15 +1,5 @@
 # Enterprise WhatsApp Bot - Technical Documentation
 
-## 🎯 Project Overview
-
-**Filename:** `1_Agente_IA_Abogados_WhatsApp_Chatwoot.json`  
-**Complexity:** ⭐⭐⭐⭐⭐ Expert Level  
-**Lines of Code:** 4,113 lines  
-**Total Nodes:** 100+  
-**Production Status:** ✅ Deployed (Law Firm - DominIA Abogados)
-
----
-
 ## 📋 Executive Summary
 
 This is the **most complex workflow** in the portfolio—a production-grade WhatsApp chatbot serving a law firm with **real customer conversations**. It demonstrates enterprise-level architecture with Redis message queuing, sophisticated deduplication logic, AI agent orchestration, RAG knowledge base, calendar integration, and CRM lead management.
@@ -613,23 +603,6 @@ Expected: Only respond to last message about divorces
 
 ---
 
-## 🔗 Related Workflows
-
-This workflow integrates with:
-- **RAG Knowledge Base** (Slack workflow can be adapted)
-- **Calendar MCP Server** (custom implementation)
-- **Lead CRM Workflow** (separate workflow for lead creation)
-
----
-
-## 📞 Support & Maintenance
-
-**Maintained by:** Manuel Sánchez Patiño  
-**Production Since:** [Deployment Date]  
-**Last Major Update:** December 2024  
-**Known Issues:** None currently
-
----
 
 ## 📚 Additional Resources
 
