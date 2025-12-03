@@ -318,7 +318,7 @@ Each documentation includes:
 
 ## 💼 About Me
 
-**Manuel Sánchez Patiño**  
+**Manuel Gálvez del Postigo Fernández**  
 Senior n8n Automation Engineer | AI Orchestration Specialist
 
 - 🎓 Industrial Electronics Engineering + Master's (Renewable Energy) + Master's (Blockchain) + MBA
@@ -341,8 +341,8 @@ Senior n8n Automation Engineer | AI Orchestration Specialist
 
 ### Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile]
-- 📧 **Email:** [your-email@example.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/manuel-g%C3%A1lvez-del-postigo-fern%C3%A1ndez-525739135/]
+- 📧 **Email:** [manuelgpw@gmail.com]
 - 🐙 **GitHub:** [@manusp5-source](https://github.com/manusp5-source)
 
 ### Available For
@@ -354,7 +354,6 @@ Senior n8n Automation Engineer | AI Orchestration Specialist
 - 🔗 Complex API orchestration
 - 📖 Training and mentorship
 
-**Rate:** €60-65/hour (freelance, negotiable based on scope)  
 **Availability:** Flexible for remote projects
 
 ---
@@ -367,6 +366,6 @@ Senior n8n Automation Engineer | AI Orchestration Specialist
 ![Built with AI](https://img.shields.io/badge/Built%20with-AI-00D4FF?style=for-the-badge)
 ![Production Ready](https://img.shields.io/badge/Production-Ready-success?style=for-the-badge)
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
 
 </div>
