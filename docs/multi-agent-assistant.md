@@ -1,14 +1,5 @@
 # Multi-Agent Personal Assistant - Technical Documentation
 
-## 🎯 Project Overview
-
-**Filename:** `1.3_Agente_IA_Contactos_Postgres.json`  
-**Complexity:** ⭐⭐⭐⭐⭐ Expert Level  
-**Total Nodes:** 30+  
-**Production Status:** ✅ Deployed (Personal Assistant via Telegram)
-
----
-
 ## 📋 Executive Summary
 
 This workflow implements a sophisticated **multi-agent AI system** that acts as a personal assistant managing emails, calendar appointments, and contacts through natural conversation. The architecture uses an **orchestrator agent** that coordinates three specialized sub-agents, each expert in their domain.
