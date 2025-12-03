@@ -1,14 +1,5 @@
 # Intelligent Invoice Processing (OCR) - Technical Documentation
 
-## 🎯 Project Overview
-
-**Filename:** `2.5_Automatizacion_Facturas.json`  
-**Complexity:** ⭐⭐⭐⭐⭐ Expert Level  
-**Total Nodes:** 40+  
-**Production Status:** ✅ Deployed (Invoice automation)
-
----
-
 ## 📋 Executive Summary
 
 Multi-channel invoice processing system that uses **Claude Opus 4 for OCR** and structured data extraction. Accepts invoices via Google Drive, web form, or Telegram, automatically extracts 15+ fields with validation, categorizes expenses, and updates accounting database.
@@ -551,15 +542,6 @@ onError: "continueErrorOutput"
 
 ---
 
-## 🔗 Related Workflows
-
-This workflow could integrate with:
-- **Approval workflow** - Manager review for >€1K
-- **Payment scheduling** - Add to payment calendar
-- **Vendor management** - Track spending by supplier
-- **Tax reporting** - Quarterly IVA summary
-
----
 
 ## 📚 Related Documentation
 
