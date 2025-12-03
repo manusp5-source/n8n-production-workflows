@@ -1,13 +1,5 @@
 # Voice AI Appointment System (VAPI Advanced) - Technical Documentation
 
-## 🎯 Project Overview
-
-**Filename:** `1.5_Agentes_Telefonicos_VAPI_Avanzado.json`  
-**Complexity:** ⭐⭐⭐⭐⭐ Expert Level  
-**Production Status:** ✅ Deployed (Appointment scheduling via phone)
-
----
-
 ## 📋 Executive Summary
 
 Production voice AI system that **automates appointment scheduling via phone calls** using VAPI. The system checks Google Calendar availability in real-time, creates events automatically, and logs all call data (including transcriptions and audio) to NocoDB for analytics.
