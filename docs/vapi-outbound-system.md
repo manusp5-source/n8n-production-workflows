@@ -1,17 +1,5 @@
 # Voice AI Outbound System (VAPI) - Technical Documentation
 
-## 🎯 Project Overview
-
-**Files:** 
-- Main: `1.6_Agentes_Telefonicos_VAPI_Outbound.json`
-- Sub-workflow: `1.6_Agentes_Telefonicos_VAPI_Outbound_subflujo.json`
-- Callback: `1.6_Agentes_Telefonicos_VAPI_Outbound_confirmacion_citas.json`
-
-**Complexity:** ⭐⭐⭐⭐ Advanced Level  
-**Production Status:** ✅ Deployed (Appointment reminders via phone)
-
----
-
 ## 📋 Executive Summary
 
 Automated outbound calling system that **reminds customers about upcoming appointments** via VAPI. The system reads appointments from Google Sheets, filters pending ones, calls customers, and processes their responses (confirm/cancel/reschedule) through a callback webhook.
