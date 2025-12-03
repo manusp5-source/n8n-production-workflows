@@ -1,14 +1,5 @@
 # RAG Knowledge Base (Slack) - Technical Documentation
 
-## 🎯 Project Overview
-
-**Filename:** `3_Agente_IA_Slack.json`  
-**Complexity:** ⭐⭐⭐⭐⭐ Expert Level  
-**Total Nodes:** 50+  
-**Production Status:** ✅ Deployed (Internal knowledge base via Slack)
-
----
-
 ## 📋 Executive Summary
 
 Complete **RAG (Retrieval Augmented Generation) system** that enables Slack users to query a knowledge base of documents with natural language. The system includes both document ingestion (upload → chunk → embed → store) and retrieval (query → search → generate response) pipelines using **Qdrant vector database** and **OpenAI embeddings**.
